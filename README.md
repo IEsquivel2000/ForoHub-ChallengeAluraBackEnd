@@ -11,7 +11,10 @@ Nuestro desafío es replicar este proceso a nivel de back-end. Vamos a crear una
 * Eliminar un tópico
 
 ```
-Estas operaciones corresponden a las funciones básicas de CRUD (Crear, Leer, Actualizar, Eliminar), similar a lo que hemos desarrollado en otros proyectos, pero ahora agregando las operaciones de actualización y eliminación, y utilizando un framework que facilita mucho nuestro trabajo.
+Estas operaciones corresponden a las funciones básicas de CRUD
+(Crear, Leer, Actualizar, Eliminar), similar a lo que hemos desarrollado en otros proyectos,
+pero ahora agregando las operaciones de actualización y eliminación,
+y utilizando un framework que facilita mucho nuestro trabajo.
 ```
 
 ##Objetivos del Proyecto
