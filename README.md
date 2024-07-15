@@ -10,9 +10,9 @@ Nuestro desafío es replicar este proceso a nivel de back-end. Vamos a crear una
 * Actualizar un tópico
 * Eliminar un tópico
 
-"""
+```
 Estas operaciones corresponden a las funciones básicas de CRUD (Crear, Leer, Actualizar, Eliminar), similar a lo que hemos desarrollado en otros proyectos, pero ahora agregando las operaciones de actualización y eliminación, y utilizando un framework que facilita mucho nuestro trabajo.
-"""
+```
 
 ##Objetivos del Proyecto
 Implementación de una API REST: Vamos a desarrollar rutas siguiendo las mejores prácticas del modelo REST para asegurar que nuestra API sea eficiente y fácil de usar.
